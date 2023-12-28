@@ -1,0 +1,24 @@
+.formularioLogin{
+    margin-left: 16vw;
+    margin-right: 5vw;
+    /* border: outset 1px green; */
+}
+
+.formularioBG{
+    /*border: outset 1px red;*/
+    margin-left: 30vw;
+    margin-right: 30vw;
+    background-image:url("/assets/images/login_gb.jpg");
+    background-size: cover;
+    border-radius:2% ;
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+.logo{
+    width: 75px;
+    height: 75px;
+}
+
+.off{
+    visibility: hidden;
+}
